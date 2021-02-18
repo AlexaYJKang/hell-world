@@ -31,3 +31,23 @@ just only git &amp; github practice
 
 - [x] this is a complete item.
 - [ ] this is an incomplate item
+
+```javascript
+const person = {
+     firstName: 'yunkjeon',
+     lastName: 'kang',
+
+     get fullName() {
+         return `${person.firstName} ${person.lastName}`;
+     },
+     set fullName(value) {
+         const parts = value.split(' ');
+         this.firstName = parts[0];
+         this.lastName = parts[1];
+     }
+ };
+
+ person.fullName = 'gildonng Hong';
+
+ console.log(person);
+
