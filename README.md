@@ -24,6 +24,6 @@ just only git &amp; github practice
 2.ordered item2
 3.ordered item3
 
-image1("https://www.wku.ac.kr/wp-content/themes/wku/common/img/logo.png")
-click me("https://www.wku.ac.kr/wp-content/themes/wku/common/img/logo.png")
+(image1)("https://www.wku.ac.kr/wp-content/themes/wku/common/img/logo.png")
+(click me)("https://www.wku.ac.kr/wp-content/themes/wku/common/img/logo.png")
 
