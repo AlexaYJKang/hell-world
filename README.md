@@ -25,7 +25,7 @@ just only git &amp; github practice
 3. ordered item3
 
 ![image1]("https://www.wku.ac.kr/wp-content/themes/wku/common/img/logo.png")
-[click me]("https://www.wku.ac.kr/wp-content/themes/wku/common/img/logo.png")
+[click me]("https://www.wku.ac.kr")
 
 > knowing is not enough. we must play. willing is nor enought. we must do.
 
