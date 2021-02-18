@@ -30,4 +30,4 @@ just only git &amp; github practice
 > knowing is not enough. we must play. willing is nor enought. we must do.
 
 - [x] this is a complete item.
-- [] this is an incomplate item
+- [ ] this is an incomplate item
