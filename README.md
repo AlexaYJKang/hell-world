@@ -28,3 +28,6 @@ just only git &amp; github practice
 [click me]("https://www.wku.ac.kr/wp-content/themes/wku/common/img/logo.png")
 
 > knowing is not enough. we must play. willing is nor enought. we must do.
+
+- [x] this is a complete item.
+- [] this is an incomplate item
