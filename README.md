@@ -17,13 +17,13 @@ just only git &amp; github practice
 * tem1
 * item2
 
-. item1
-. item2
+- item1
+- item2
 
-1.ordered item1
-2.ordered item2
-3.ordered item3
+1. ordered item1
+2. ordered item2
+3. ordered item3
 
-(image1)("https://www.wku.ac.kr/wp-content/themes/wku/common/img/logo.png")
-(click me)("https://www.wku.ac.kr/wp-content/themes/wku/common/img/logo.png")
+![image1]("https://www.wku.ac.kr/wp-content/themes/wku/common/img/logo.png")
+[click me]("https://www.wku.ac.kr/wp-content/themes/wku/common/img/logo.png")
 
