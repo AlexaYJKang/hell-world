@@ -34,7 +34,7 @@ just only git &amp; github practice
 
 ```javascript
 const person = {
-     firstName: 'yunkjeon',
+     firstName: 'alexa',
      lastName: 'kang',
 
      get fullName() {
